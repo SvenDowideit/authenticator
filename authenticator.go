@@ -7,6 +7,7 @@ type (
 		Username       *string
 		Password       *string
 		ConfigFilePath *string
+		AddContexts    *bool
 	}
 )
 
